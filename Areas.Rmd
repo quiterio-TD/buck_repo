@@ -17,3 +17,10 @@ Area<- pi*r^2
 
 ```
 
+# Área Cuadrado
+
+```{r}
+l <- 0.5
+Area<- l^2
+
+```
